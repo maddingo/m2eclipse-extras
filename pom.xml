@@ -28,6 +28,8 @@
     <module>org.omadac.m2e.jaxb.feature</module>
     <module>org.omadac.m2e.openjpa</module>
     <module>org.omadac.m2e.openjpa.feature</module>
+    <module>org.omadac.m2e.cxf-codegen</module>
+    <module>org.omadac.m2e.cxf-codegen.feature</module>
   </modules>
 
   <repositories>
